@@ -1,0 +1,17 @@
+{
+    "name": "admin_dashboard",
+    "version": "1.0.1",
+    "authors": [
+        "Bootstrap",
+    ],
+    "description": "startbootstrap-sb-admin-2-gh-pages",
+    "main": "/",
+    "keywords": [
+        "admin_dashboard"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/khoacantcode/admin_dashboard.git",
+    "ignore": [
+        "README.md"
+    ]
+}
